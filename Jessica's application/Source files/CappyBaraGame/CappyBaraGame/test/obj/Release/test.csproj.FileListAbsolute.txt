@@ -1,0 +1,22 @@
+C:\Users\joshu\Desktop\Test Program\test forums\test\test\bin\Release\test.exe.config
+C:\Users\joshu\Desktop\Test Program\test forums\test\test\bin\Release\test.exe
+C:\Users\joshu\Desktop\Test Program\test forums\test\test\bin\Release\test.pdb
+C:\Users\joshu\Desktop\Test Program\test forums\test\test\obj\Release\test.csproj.AssemblyReference.cache
+C:\Users\joshu\Desktop\Test Program\test forums\test\test\obj\Release\test.csproj.SuggestedBindingRedirects.cache
+C:\Users\joshu\Desktop\Test Program\test forums\test\test\obj\Release\test.Cappybara_Love.resources
+C:\Users\joshu\Desktop\Test Program\test forums\test\test\obj\Release\test.Properties.Resources.resources
+C:\Users\joshu\Desktop\Test Program\test forums\test\test\obj\Release\test.csproj.GenerateResource.cache
+C:\Users\joshu\Desktop\Test Program\test forums\test\test\obj\Release\test.csproj.CoreCompileInputs.cache
+C:\Users\joshu\Desktop\Test Program\test forums\test\test\obj\Release\test.exe
+C:\Users\joshu\Desktop\Test Program\test forums\test\test\obj\Release\test.pdb
+F:\C# applications\Jessica's application\Source files\CappyBaraGame\CappyBaraGame\test\bin\Release\test.exe.config
+F:\C# applications\Jessica's application\Source files\CappyBaraGame\CappyBaraGame\test\bin\Release\test.exe
+F:\C# applications\Jessica's application\Source files\CappyBaraGame\CappyBaraGame\test\bin\Release\test.pdb
+F:\C# applications\Jessica's application\Source files\CappyBaraGame\CappyBaraGame\test\obj\Release\test.csproj.AssemblyReference.cache
+F:\C# applications\Jessica's application\Source files\CappyBaraGame\CappyBaraGame\test\obj\Release\test.csproj.SuggestedBindingRedirects.cache
+F:\C# applications\Jessica's application\Source files\CappyBaraGame\CappyBaraGame\test\obj\Release\test.Cappybara_Love.resources
+F:\C# applications\Jessica's application\Source files\CappyBaraGame\CappyBaraGame\test\obj\Release\test.Properties.Resources.resources
+F:\C# applications\Jessica's application\Source files\CappyBaraGame\CappyBaraGame\test\obj\Release\test.csproj.GenerateResource.cache
+F:\C# applications\Jessica's application\Source files\CappyBaraGame\CappyBaraGame\test\obj\Release\test.csproj.CoreCompileInputs.cache
+F:\C# applications\Jessica's application\Source files\CappyBaraGame\CappyBaraGame\test\obj\Release\test.exe
+F:\C# applications\Jessica's application\Source files\CappyBaraGame\CappyBaraGame\test\obj\Release\test.pdb

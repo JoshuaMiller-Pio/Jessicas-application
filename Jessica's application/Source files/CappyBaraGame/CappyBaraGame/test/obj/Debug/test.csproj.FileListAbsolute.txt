@@ -1,0 +1,11 @@
+C:\Users\joshu\Desktop\Test Program\test forums\test\test\bin\Debug\test.exe.config
+C:\Users\joshu\Desktop\Test Program\test forums\test\test\bin\Debug\test.exe
+C:\Users\joshu\Desktop\Test Program\test forums\test\test\bin\Debug\test.pdb
+C:\Users\joshu\Desktop\Test Program\test forums\test\test\obj\Debug\test.csproj.AssemblyReference.cache
+C:\Users\joshu\Desktop\Test Program\test forums\test\test\obj\Debug\test.csproj.SuggestedBindingRedirects.cache
+C:\Users\joshu\Desktop\Test Program\test forums\test\test\obj\Debug\test.Properties.Resources.resources
+C:\Users\joshu\Desktop\Test Program\test forums\test\test\obj\Debug\test.csproj.GenerateResource.cache
+C:\Users\joshu\Desktop\Test Program\test forums\test\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+C:\Users\joshu\Desktop\Test Program\test forums\test\test\obj\Debug\test.exe
+C:\Users\joshu\Desktop\Test Program\test forums\test\test\obj\Debug\test.pdb
+C:\Users\joshu\Desktop\Test Program\test forums\test\test\obj\Debug\test.Cappybara_Love.resources
